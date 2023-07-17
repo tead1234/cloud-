@@ -1,2 +1,8 @@
 go deploy it 접ㅂ속
 
+Active directory >> 인증용, SAML Oauth, Open ID 
+
+Idnetity >> Account >> Azure AD tenant (구독을 누르면 생김, 마소 인증을 관ㄹ니하는 상품)
+
+tcp 88번 사용 kerneros, saml (인즈으 허가), Oauth(권한), WS-FEderation(회사끼리 관계(트러스트)를 맺음 >> 인증과 인가를 분리 (인증을 한군데서 , 인가는 다양한 곳에서),
+테넌트 >> 플랫한 구조 why 온프레미스에선 계층화 돼있음 테넌트는 약간 AWS AZ or region하고 비슷한 개념인가???
