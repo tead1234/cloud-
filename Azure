@@ -6,3 +6,5 @@ Idnetity >> Account >> Azure AD tenant (구독을 누르면 생김, 마소 인�
 
 tcp 88번 사용 kerneros, saml (인즈으 허가), Oauth(권한), WS-FEderation(회사끼리 관계(트러스트)를 맺음 >> 인증과 인가를 분리 (인증을 한군데서 , 인가는 다양한 곳에서),
 테넌트 >> 플랫한 구조 why 온프레미스에선 계층화 돼있음 테넌트는 약간 AWS AZ or region하고 비슷한 개념인가???
+
+MS intune 디바이스 등록 및 개요하는 부분, 온프레미스 보안때문에 못넘어감, 
